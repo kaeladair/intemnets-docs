@@ -4,5 +4,6 @@
 
 ## Hello Mission Breakdown
 
-* [Mission Structure Overview](hello-mission-breakdown/mission-structure-overview.md)
-* [Mission.py](hello-mission-breakdown/mission.py.md)
+* [Mission Structure](hello-mission-breakdown/mission-structure.md)
+* [Mission](hello-mission-breakdown/mission.md)
+* [Ground Stage](hello-mission-breakdown/ground-stage.md)

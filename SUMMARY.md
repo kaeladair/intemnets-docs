@@ -9,6 +9,6 @@
 * [Ground Stage](hello-mission-breakdown/ground-stage.md)
 * [Hello Guidance Mode](hello-mission-breakdown/hello-guidance-mode.md)
 
-***
+## Other
 
-* [Writing Files](writing-files.md)
+* [Writing Files](other/writing-files.md)
